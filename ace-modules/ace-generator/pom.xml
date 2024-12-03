@@ -23,7 +23,7 @@
         </plugins>
     </build>
     <properties>
-        <mybatis.spring.boot.version>1.3.0</mybatis.spring.boot.version>
+        <mybatis.spring.boot.version>3.0.4</mybatis.spring.boot.version>
         <mysql.version>5.1.38</mysql.version>
         <druid.version>1.0.28</druid.version>
         <commons.lang.version>2.6</commons.lang.version>
